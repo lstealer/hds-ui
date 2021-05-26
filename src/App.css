@@ -1,0 +1,108 @@
+div.bg{
+  background-color: #8ab6d6;
+  margin-top: 6vmax;
+  padding: 1vmax;
+  border-radius:5px;
+  margin-left: 30vw;
+  margin-left: 30vw;
+  max-width: 40vw;
+  width: 30vw;
+  min-width: 300px;
+} 
+.warnF{
+  display: none;
+  color:red;
+}
+.warnT{
+  display:inline;
+  color:red;
+}
+h1.form{
+  text-align: center;
+  font-weight: bold;
+  font-size: 50px;
+  /* text-decoration: underline; */
+}
+td.id{
+  width: 3vw;
+}
+td.description{
+  max-width: 40vw;
+  overflow-x: scroll;
+}
+p.warnt{
+  color:red;
+  display: none;
+}
+p.warnf{
+  color:red;
+  display: inline;
+}
+div.background{
+  background-color: #e1e5e6;
+  border-radius: 25px;
+  margin: 60vw;
+  margin-top: 50vh;
+  min-width: 300px;
+  max-width: 700px;
+}
+.pageText{
+  width: 4vw;
+  padding:0;
+  margin: 0;
+}
+.text{
+  text-align: center;
+}
+div.page{
+  padding-left: 40vw;
+}
+.headerlink{
+ background-color : #007bff;
+ padding-left : 1vw;
+ color: #fff;
+ display: inline;
+}
+.headerlink:hover{
+  background-color: #007bff;
+  text-decoration :none;
+  color: #eeeeee;
+}
+div.container{
+  margin-top: 20vh;
+  margin-left: 25vw;
+  margin-right: 25vw;
+}
+.datePickerStyle{
+  border-color: rgb(218, 218, 218);
+  border-radius: 5px;
+  height: 37px;
+  width: 380px;
+}
+div.container{
+  margin-top: 6vh;
+  margin-left: 25vw;
+  margin-right: 25vw;
+  min-width: 400px;
+}
+.rowShowT{
+  display: block;
+}.rowShowTLine{
+  display: inline;
+}
+.rowShowF{
+  display: none;
+}
+.signUP{
+  margin-left: 2px;
+  text-decoration: underline;
+  background-color:#ffffff00;
+  display: inline;
+}
+.signUpAsk{
+  display: inline;
+}
+.divSignUpCenter{
+  margin-top: 2vh;
+  text-align: center;
+}
